@@ -1,0 +1,758 @@
+player_name,pitcher,events,p_throws,pitch_name,release_speed,hit_distance_sc,launch_speed,launch_angle,bat_score,post_bat_score,delta_run_exp
+"Ohtani, Shohei",656849,single,L,Sinker,91.4,21,114.1,-5,2,3,0.9
+"Ohtani, Shohei",605347,home_run,R,Sinker,95.9,380,103,34,7,9,2
+"Ohtani, Shohei",686730,single,R,Changeup,86.2,162,113.5,8,0,0,0.9
+"Ohtani, Shohei",668881,triple,R,Split-Finger,87.3,32,102.1,-2,1,1,1.6
+"Ohtani, Shohei",676714,single,L,Slider,83.6,157,73,15,0,0,0.9
+"Ohtani, Shohei",694297,single,R,Changeup,87,41,102.6,0,1,2,0.9
+"Ohtani, Shohei",694297,double,R,4-Seam Fastball,95,235,94.2,14,0,0,1.25
+"Ohtani, Shohei",664747,single,R,4-Seam Fastball,94,164,100.3,11,2,3,0.9
+"Ohtani, Shohei",594580,single,L,Sweeper,81.7,35,80.6,-1,2,2,0.9
+"Ohtani, Shohei",593423,home_run,R,4-Seam Fastball,95.3,368,104.5,28,1,3,2
+"Ohtani, Shohei",657277,single,R,Sinker,91.9,12,103.1,-11,0,0,0.9
+"Ohtani, Shohei",666808,single,R,Cutter,101,256,95.7,13,1,1,0.9
+"Ohtani, Shohei",676775,single,R,Sinker,92.3,281,109.4,10,4,4,0.9
+"Ohtani, Shohei",676775,home_run,R,Slider,88.7,446,113.4,29,0,1,2
+"Ohtani, Shohei",678495,double,R,4-Seam Fastball,97.6,236,90.4,15,5,6,1.25
+"Ohtani, Shohei",663855,single,R,Sinker,98.6,2,86.8,-46,1,2,0.9
+"Ohtani, Shohei",663855,single,R,Sinker,95,194,106,12,1,1,0.9
+"Ohtani, Shohei",650633,single,R,Sinker,92.6,247,78.9,26,0,0,0.9
+"Ohtani, Shohei",673513,double,L,Slider,87.1,299,107.2,13,0,0,1.25
+"Ohtani, Shohei",682610,single,R,Changeup,89.4,84,101.2,4,6,6,0.9
+"Ohtani, Shohei",682610,home_run,R,4-Seam Fastball,96.1,441,107.6,27,0,2,2
+"Ohtani, Shohei",608331,single,L,Slider,83.4,203,75,16,2,2,0.9
+"Ohtani, Shohei",608331,single,L,4-Seam Fastball,98.4,14,97.4,-9,2,2,0.9
+"Ohtani, Shohei",608331,home_run,L,Curveball,74.6,412,104.3,31,0,2,2
+"Ohtani, Shohei",621345,home_run,L,4-Seam Fastball,93.8,464,110.6,26,4,5,2
+"Ohtani, Shohei",693821,single,R,Sinker,90.3,214,95,11,4,5,0.9
+"Ohtani, Shohei",693821,home_run,R,4-Seam Fastball,90.2,392,103.4,34,2,3,2
+"Ohtani, Shohei",623451,single,R,Sinker,91.1,288,93.7,18,10,10,0.9
+"Ohtani, Shohei",628452,single,R,Changeup,88.5,149,84.9,8,2,3,0.9
+"Ohtani, Shohei",676714,single,L,Slider,82.9,36,77.8,-2,0,0,0.9
+"Ohtani, Shohei",663531,single,L,4-Seam Fastball,90.5,253,107.7,12,7,8,0.9
+"Ohtani, Shohei",674072,single,L,Curveball,80,142,102,4,0,0,0.9
+"Ohtani, Shohei",579328,single,L,4-Seam Fastball,98.2,153,119.2,6,2,3,0.9
+"Ohtani, Shohei",605135,home_run,R,Slider,83.2,360,96.1,37,0,1,2
+"Ohtani, Shohei",598264,double,R,4-Seam Fastball,92.8,386,101.9,29,8,9,1.25
+"Ohtani, Shohei",663432,double,R,4-Seam Fastball,93.9,250,105.7,11,7,8,1.25
+"Ohtani, Shohei",663623,double,R,4-Seam Fastball,96.7,323,115.6,13,0,0,1.25
+"Ohtani, Shohei",598264,home_run,R,Split-Finger,85.6,450,118.7,25,3,4,2
+"Ohtani, Shohei",605288,single,R,Sinker,92.8,33,101,-2,3,3,0.9
+"Ohtani, Shohei",605288,home_run,R,Slider,81.7,423,110,30,0,2,2
+"Ohtani, Shohei",676130,double,R,Slider,87.5,328,103.4,21,1,1,1.25
+"Ohtani, Shohei",640455,single,L,Sweeper,78.6,263,107.8,11,1,2,0.9
+"Ohtani, Shohei",663623,single,R,Curveball,80.6,244,106.7,12,0,0,0.9
+"Ohtani, Shohei",640451,single,R,4-Seam Fastball,98.6,276,99,13,0,0,0.9
+"Ohtani, Shohei",663623,single,R,Cutter,92.3,270,107.9,15,0,0,0.9
+"Ohtani, Shohei",663432,single,R,4-Seam Fastball,94.4,1,54.2,-73,6,6,0.9
+"Ohtani, Shohei",571578,single,L,Sinker,92.4,238,93.1,13,0,0,0.9
+"Ohtani, Shohei",680730,single,L,Curveball,80.6,18,107.3,-6,0,0,0.9
+"Ohtani, Shohei",593974,single,L,Changeup,87.7,185,108.6,8,3,3,0.9
+"Ohtani, Shohei",650633,double,R,Slider,85.6,226,85.2,53,7,7,1.25
+"Ohtani, Shohei",673513,double,L,Split-Finger,86,240,107.9,14,7,7,1.25
+"Ohtani, Shohei",650633,home_run,R,4-Seam Fastball,95.4,403,107.3,25,0,1,2
+"Ohtani, Shohei",663978,single,R,Slider,87.9,276,104.3,17,2,2,0.9
+"Ohtani, Shohei",686973,double,R,Cutter,89.3,121,114,6,0,0,1.25
+"Ohtani, Shohei",543351,home_run,R,Slider,85.6,362,106.9,38,3,4,2
+"Ohtani, Shohei",641927,double,R,4-Seam Fastball,92.5,396,110.1,16,0,0,1.25
+"Ohtani, Shohei",595345,double,L,Sinker,92.9,249,88.3,20,1,1,1.25
+"Ohtani, Shohei",694037,double,R,4-Seam Fastball,97,395,106.8,20,0,1,1.25
+"Ohtani, Shohei",643410,triple,R,Curveball,72.3,279,107.9,16,0,0,1.6
+"Ohtani, Shohei",696136,single,L,Sinker,91.3,198,78.2,17,0,0,0.9
+"Ohtani, Shohei",696136,single,L,Slider,81.9,158,106.1,7,0,0,0.9
+"Ohtani, Shohei",543294,home_run,R,Changeup,79.4,379,105.2,32,2,4,2
+"Ohtani, Shohei",543294,double,R,Sinker,88.2,304,106.1,12,0,0,1.25
+"Ohtani, Shohei",690986,single,L,4-Seam Fastball,92.9,103,69.7,10,1,1,0.9
+"Ohtani, Shohei",573124,home_run,L,Sinker,93.2,430,105.6,24,4,5,2
+"Ohtani, Shohei",676775,double,R,Split-Finger,88.7,87,98.9,4,1,1,1.25
+"Ohtani, Shohei",571927,double,L,Changeup,83.4,310,115.8,16,0,0,1.25
+"Ohtani, Shohei",458681,single,R,Changeup,85.3,202,113.9,11,0,0,0.9
+"Ohtani, Shohei",571945,single,R,Slider,87,121,113,7,5,5,0.9
+"Ohtani, Shohei",571945,double,R,Changeup,86.9,218,91.5,15,0,0,1.25
+"Ohtani, Shohei",605397,single,R,Cutter,89.9,201,108.7,12,0,0,0.9
+"Ohtani, Shohei",506433,single,R,Sinker,94.7,220,112.3,11,0,0,0.9
+"Ohtani, Shohei",670970,single,L,Sinker,98.3,215,74.6,22,4,5,0.9
+"Ohtani, Shohei",676664,double,L,Slider,80.5,73,100.9,2,0,0,1.25
+"Ohtani, Shohei",650911,single,L,Sinker,93.6,84,98.3,4,3,4,0.9
+"Ohtani, Shohei",547179,single,R,Changeup,82.1,202,104.3,10,3,4,0.9
+"Ohtani, Shohei",547179,single,R,Changeup,83.2,1,54.2,-69,1,2,0.9
+"Ohtani, Shohei",571479,double,R,4-Seam Fastball,94.4,343,118.6,13,6,7,1.25
+"Ohtani, Shohei",592836,single,R,4-Seam Fastball,92.7,119,106.1,6,0,0,0.9
+"Ohtani, Shohei",471911,triple,R,Slider,84.4,275,91.2,21,3,4,1.6
+"Ohtani, Shohei",471911,double,R,4-Seam Fastball,94.3,382,109.6,19,0,0,1.25
+"Ohtani, Shohei",673540,double,R,Slider,86.5,337,115.4,19,0,0,1.25
+"Ohtani, Shohei",680689,double,R,Curveball,79.2,208,85.4,18,1,1,1.25
+"Ohtani, Shohei",671096,home_run,L,4-Seam Fastball,92.9,442,115.7,20,0,2,2
+"Ohtani, Shohei",681867,double,R,Changeup,83.2,149,95.5,9,1,1,1.25
+"Ohtani, Shohei",541640,home_run,R,Cutter,89.9,389,102.1,28,1,5,2
+"Ohtani, Shohei",541640,single,R,Changeup,83.6,99,94.9,6,0,0,0.9
+"Ohtani, Shohei",592351,single,R,4-Seam Fastball,96.9,95,80.7,5,1,1,0.9
+"Ohtani, Shohei",592351,home_run,R,4-Seam Fastball,95.7,437,109.1,32,0,1,2
+"Ohtani, Shohei",547973,single,L,Sinker,103.1,16,60.5,-8,1,1,0.9
+"Ohtani, Shohei",656756,single,L,Sinker,93,4,100.3,-23,0,0,0.9
+"Ohtani, Shohei",656786,home_run,L,Sweeper,81.4,448,110.2,28,1,2,2
+"Ohtani, Shohei",641585,double,R,Cutter,87.3,372,118.3,18,1,1,1.25
+"Ohtani, Shohei",434378,single,R,4-Seam Fastball,93.9,259,92.6,18,2,2,0.9
+"Ohtani, Shohei",518397,single,L,Sinker,93.3,65,82.2,3,0,1,0.9
+"Ohtani, Shohei",657277,double,R,Changeup,89.1,134,106,6,0,0,1.25
+"Ohtani, Shohei",657277,single,R,Changeup,88.4,26,111.4,-4,0,0,0.9
+"Ohtani, Shohei",682243,single,R,4-Seam Fastball,97.3,276,105.6,15,0,0,0.9
+"Ohtani, Shohei",622491,double,R,4-Seam Fastball,96,367,105.1,19,5,5,1.25
+"Ohtani, Shohei",663462,home_run,R,4-Seam Fastball,96.2,390,106.7,23,2,3,2
+"Ohtani, Shohei",693433,single,R,Slider,88.6,185,87.6,13,0,0,0.9
+"Ohtani, Shohei",630023,single,R,Sinker,91.1,73,106.5,3,1,1,0.9
+"Ohtani, Shohei",630023,single,R,Split-Finger,85.8,220,114,12,0,0,0.9
+"Ohtani, Shohei",675911,single,R,4-Seam Fastball,98.1,70,92.3,2,1,1,0.9
+"Ohtani, Shohei",450203,single,R,4-Seam Fastball,95.2,164,113.3,9,2,2,0.9
+"Ohtani, Shohei",621345,single,L,Cutter,91.2,152,96.9,8,3,3,0.9
+"Ohtani, Shohei",621244,single,R,Changeup,80.5,229,95,11,0,0,0.9
+"Ohtani, Shohei",666201,double,R,Sinker,94.1,121,113.6,4,0,0,1.25
+"Ohtani, Shohei",592332,single,R,Split-Finger,86.7,226,73.8,22,1,1,0.9
+"Ohtani, Shohei",592332,home_run,R,4-Seam Fastball,93.4,397,103.5,28,0,1,2
+"Ohtani, Shohei",666159,home_run,R,4-Seam Fastball,94.8,435,116.9,22,6,7,2
+"Ohtani, Shohei",666159,home_run,R,4-Seam Fastball,94.2,383,107.6,25,3,5,2
+"Ohtani, Shohei",656605,home_run,R,Cutter,92.2,410,112.9,19,0,1,2
+"Ohtani, Shohei",593334,triple,R,Changeup,84.7,77,110.5,3,3,4,1.6
+"Ohtani, Shohei",622663,double,R,Changeup,87.1,377,111.7,17,0,0,1.25
+"Ohtani, Shohei",650633,home_run,R,4-Seam Fastball,96.9,403,106.5,31,1,3,2
+"Ohtani, Shohei",622663,single,R,4-Seam Fastball,95.4,132,108.6,7,0,0,0.9
+"Ohtani, Shohei",664208,home_run,R,Cutter,90,411,105.4,27,7,8,2
+"Ohtani, Shohei",519151,home_run,R,Slider,89.2,404,103.5,32,9,10,2
+"Ohtani, Shohei",641585,single,R,4-Seam Fastball,91.9,206,87.9,14,2,2,0.9
+"Ohtani, Shohei",641585,single,R,4-Seam Fastball,92,237,76.9,25,0,0,0.9
+"Ohtani, Shohei",675627,home_run,R,Slider,84.2,433,105.2,29,2,4,2
+"Ohtani, Shohei",675627,triple,R,4-Seam Fastball,94.9,198,113.1,11,0,0,1.6
+"Ohtani, Shohei",681911,single,L,4-Seam Fastball,93.1,241,82.3,16,0,0,0.9
+"Ohtani, Shohei",664062,single,R,4-Seam Fastball,91.6,78,104,3,0,0,0.9
+"Ohtani, Shohei",669459,home_run,L,Slider,83.6,454,115.4,28,4,5,2
+"Ohtani, Shohei",674072,home_run,L,Slider,83.9,493,115.1,29,0,1,2
+"Ohtani, Shohei",608665,home_run,R,Slider,86.9,438,111.3,27,5,7,2
+"Ohtani, Shohei",608665,single,R,Changeup,88.5,6,98.2,-17,5,5,0.9
+"Ohtani, Shohei",608337,triple,R,Changeup,81,229,94.8,16,0,0,1.6
+"Ohtani, Shohei",641871,single,R,4-Seam Fastball,95.9,129,102.2,5,4,4,0.9
+"Ohtani, Shohei",656629,single,R,4-Seam Fastball,97,64,110.1,2,2,2,0.9
+"Ohtani, Shohei",657053,home_run,R,Split-Finger,88.1,404,106.4,25,2,3,2
+"Ohtani, Shohei",656629,home_run,R,4-Seam Fastball,95,418,110.8,35,0,1,2
+"Ohtani, Shohei",656302,home_run,R,Slider,88.5,446,113,36,0,1,2
+"Ohtani, Shohei",596295,triple,L,4-Seam Fastball,91.9,236,113.7,10,0,1,1.6
+"Ohtani, Shohei",596295,single,L,Slider,85.8,106,82.7,7,0,0,0.9
+"Ohtani, Shohei",502624,single,R,Changeup,84.4,166,79.1,15,6,7,0.9
+"Ohtani, Shohei",607536,home_run,L,Sinker,86.9,434,103.1,26,2,3,2
+"Ohtani, Shohei",607536,double,L,Sinker,88.3,321,115.5,16,0,0,1.25
+"Ohtani, Shohei",663567,single,R,Changeup,88,143,110.5,7,4,4,0.9
+"Ohtani, Shohei",425844,home_run,R,Curveball,69.7,422,117.1,22,1,3,2
+"Ohtani, Shohei",664199,home_run,R,Changeup,88.4,437,110,30,7,8,2
+"Ohtani, Shohei",663903,double,R,Sinker,93.8,201,106.1,10,0,0,1.25
+"Ohtani, Shohei",656271,home_run,L,Slider,86.5,443,109.4,28,3,5,2
+"Ohtani, Shohei",571760,single,L,4-Seam Fastball,94,224,86.2,16,1,1,0.9
+"Ohtani, Shohei",519293,home_run,L,4-Seam Fastball,94.1,453,116.1,26,1,3,2
+"Ohtani, Shohei",669391,single,R,Changeup,88.2,78,87,5,1,1,0.9
+"Ohtani, Shohei",674003,double,L,Changeup,82.4,254,112.5,16,0,0,1.25
+"Ohtani, Shohei",681982,home_run,R,Sinker,92.9,459,114.1,25,4,5,2
+"Ohtani, Shohei",666142,home_run,L,Cutter,92.7,388,107,28,5,7,2
+"Ohtani, Shohei",669302,single,R,Split-Finger,86.4,205,100.2,11,3,3,0.9
+"Ohtani, Shohei",623167,single,R,Cutter,87.6,140,97.6,10,8,8,0.9
+"Ohtani, Shohei",666374,single,R,Slider,88.1,223,93.6,17,6,6,0.9
+"Ohtani, Shohei",693433,home_run,R,Sweeper,84.2,400,103,28,0,2,2
+"Ohtani, Shohei",622491,double,R,Sinker,97.4,262,112.4,11,3,3,1.25
+"Ohtani, Shohei",622491,home_run,R,Changeup,88.1,440,112.9,30,0,2,2
+"Ohtani, Shohei",622491,single,R,Slider,84.9,3,67.7,-33,0,0,0.9
+"Ohtani, Shohei",592767,single,L,Knuckle Curve,77.5,165,92.2,10,2,2,0.9
+"Ohtani, Shohei",592791,double,R,4-Seam Fastball,93.9,351,109.4,18,0,0,1.25
+"Ohtani, Shohei",669713,home_run,R,Cutter,88.9,374,103,24,0,1,2
+"Ohtani, Shohei",664208,double,R,Curveball,75.6,334,97,27,1,2,1.25
+"Ohtani, Shohei",664299,triple,R,4-Seam Fastball,93.5,340,111.2,18,0,1,1.6
+"Ohtani, Shohei",592773,double,R,Split-Finger,89.2,337,94.1,25,2,3,1.25
+"Ohtani, Shohei",664299,single,R,4-Seam Fastball,92.7,61,109.9,1,0,0,0.9
+"Ohtani, Shohei",519151,single,R,4-Seam Fastball,95,34,102.3,-3,5,5,0.9
+"Ohtani, Shohei",669854,single,R,Slider,86.6,36,96.4,-3,0,0,0.9
+"Ohtani, Shohei",458681,home_run,R,4-Seam Fastball,93.4,459,111.8,30,6,8,2
+"Ohtani, Shohei",458681,home_run,R,4-Seam Fastball,93.8,425,107,30,2,4,2
+"Ohtani, Shohei",608337,home_run,R,4-Seam Fastball,94.2,435,110.2,30,1,2,2
+"Ohtani, Shohei",691587,single,R,4-Seam Fastball,97.4,154,109.6,8,0,0,0.9
+"Ohtani, Shohei",572020,home_run,L,Cutter,84.4,398,105.7,30,4,5,2
+"Ohtani, Shohei",678394,single,R,Changeup,87.5,12,76.1,-13,1,1,0.9
+"Ohtani, Shohei",641154,single,R,4-Seam Fastball,96.2,264,79.1,25,0,0,0.9
+"Ohtani, Shohei",686973,home_run,R,4-Seam Fastball,94.2,414,102.5,33,1,2,2
+"Ohtani, Shohei",669330,home_run,R,Changeup,85.5,378,100.3,32,0,1,2
+"Ohtani, Shohei",543056,single,L,Sweeper,81.7,99,82.3,7,5,6,0.9
+"Ohtani, Shohei",680570,home_run,R,Curveball,80.3,456,114.6,27,4,7,2
+"Ohtani, Shohei",680570,single,R,4-Seam Fastball,98,81,99.6,3,1,1,0.9
+"Ohtani, Shohei",670810,triple,R,Changeup,89.5,351,101.1,18,8,8,1.6
+"Ohtani, Shohei",657508,single,R,4-Seam Fastball,96.1,260,84.1,17,9,9,0.9
+"Ohtani, Shohei",661403,single,R,Slider,91.3,102,94.3,4,1,2,0.9
+"Ohtani, Shohei",615698,double,R,4-Seam Fastball,94.1,273,93.5,15,1,2,1.25
+"Ohtani, Shohei",519151,home_run,R,Curveball,82.1,408,102.6,31,2,4,2
+"Ohtani, Shohei",686613,double,R,Cutter,93.3,370,110.2,20,3,4,1.25
+"Ohtani, Shohei",686613,double,R,Knuckle Curve,82.4,12,100.3,-9,1,2,1.25
+"Ohtani, Shohei",527048,single,L,Sinker,93.3,102,86.7,7,6,7,0.9
+"Ohtani, Shohei",527048,single,L,Changeup,84.3,1,63.1,-44,0,0,0.9
+"Ohtani, Shohei",656427,single,R,Cutter,91.4,81,113,4,4,4,0.9
+"Ohtani, Shohei",571945,single,R,Sinker,91.4,56,108.8,1,1,2,0.9
+"Ohtani, Shohei",606149,double,R,4-Seam Fastball,94.7,371,105.7,19,5,5,1.25
+"Ohtani, Shohei",571945,single,R,4-Seam Fastball,94.5,11,107.2,-10,0,0,0.9
+"Ohtani, Shohei",607067,home_run,R,Cutter,85.9,413,114.3,39,1,2,2
+"Ohtani, Shohei",669203,single,R,Cutter,94.6,14,87,-6,0,0,0.9
+"Ohtani, Shohei",665625,single,R,Slider,90.8,18,103.4,-5,3,3,0.9
+"Ohtani, Shohei",642207,single,R,4-Seam Fastball,91.3,156,97.4,9,5,5,0.9
+"Ohtani, Shohei",657265,single,R,4-Seam Fastball,92.2,30,111.8,-2,1,1,0.9
+"Ohtani, Shohei",676664,double,L,4-Seam Fastball,93.5,171,102.9,7,0,1,1.25
+"Ohtani, Shohei",676664,single,L,Sweeper,82.5,4,57.6,-28,0,0,0.9
+"Ohtani, Shohei",642758,triple,R,Changeup,86.6,375,106.9,40,7,7,1.6
+"Ohtani, Shohei",660261,single,R,4-Seam Fastball,99,176,103,7,8,9,0.9
+"Ohtani, Shohei",663385,home_run,R,Sinker,94.5,401,103.9,34,9,11,2
+"Ohtani, Shohei",686610,double,L,Changeup,82.6,34,104.3,-3,2,2,1.25
+"Ohtani, Shohei",543475,home_run,R,Curveball,79.8,415,107.3,25,3,4,2
+"Ohtani, Shohei",657031,single,L,Slider,85.2,9,81.3,-12,4,4,0.9
+"Ohtani, Shohei",622251,single,R,Curveball,82.3,235,98,10,2,2,0.9
+"Ohtani, Shohei",657376,home_run,R,Sweeper,88.7,391,116.7,19,0,2,2
+"Ohtani, Shohei",678394,single,R,Slider,82.6,114,88.8,7,4,4,0.9
+"Ohtani, Shohei",678394,single,R,4-Seam Fastball,96.5,201,105.6,12,0,0,0.9
+"Ohtani, Shohei",601713,single,R,4-Seam Fastball,95.3,204,65.6,33,4,4,0.9
+"Ohtani, Shohei",542947,single,L,4-Seam Fastball,88.7,214,107.4,8,6,7,0.9
+"Ohtani, Shohei",670174,single,R,Cutter,89.7,214,77.3,18,2,2,0.9
+"Ohtani, Shohei",680686,single,R,Cutter,89.6,227,79.1,23,0,0,0.9
+"Ohtani, Shohei",579328,single,L,Slider,88,118,100.5,7,6,6,0.9
+"Ohtani, Shohei",579328,home_run,L,Slider,89.3,397,108.6,23,3,5,2
+"Ohtani, Shohei",621244,double,R,Changeup,80,180,80.4,16,1,1,1.25
+"Ohtani, Shohei",605135,single,R,Curveball,70,226,91.1,20,3,3,0.9
+"Ohtani, Shohei",657024,double,R,Split-Finger,86.3,337,101.6,23,3,3,1.25
+"Ohtani, Shohei",662253,single,R,Slider,87.9,32,67.5,1,3,4,0.9
+"Ohtani, Shohei",669923,home_run,R,Changeup,85.5,431,110.3,26,2,4,2
+"Ohtani, Shohei",686610,home_run,L,Sweeper,80,447,110.8,27,5,6,2
+"Ohtani, Shohei",670124,single,R,Cutter,89.3,37,100,-3,11,12,0.9
+"Ohtani, Shohei",660261,single,R,4-Seam Fastball,99.1,338,99.3,21,2,3,0.9
+"Ohtani, Shohei",666205,single,L,4-Seam Fastball,92,38,111.6,-3,0,0,0.9
+"Ohtani, Shohei",592789,single,R,Cutter,87.8,212,67.5,40,4,4,0.9
+"Ohtani, Shohei",592789,single,R,Curveball,75.7,145,98.4,11,3,3,0.9
+"Ohtani, Shohei",477132,single,L,Slider,86.2,117,104.9,7,0,0,0.9
+"Ohtani, Shohei",686610,single,L,Sweeper,79.8,229,73.2,22,0,0,0.9
+"Ohtani, Shohei",661309,double,R,Sinker,94.1,291,117.2,13,2,3,1.25
+"Ohtani, Shohei",668338,single,R,4-Seam Fastball,93.2,259,102.1,16,0,0,0.9
+"Ohtani, Shohei",519043,single,L,Knuckle Curve,82.1,221,100.4,11,3,3,0.9
+"Ohtani, Shohei",621368,single,L,4-Seam Fastball,97.1,2,54.4,-58,3,3,0.9
+"Ohtani, Shohei",657248,single,R,Knuckle Curve,81,149,106.8,8,0,0,0.9
+"Ohtani, Shohei",650204,single,R,Slider,87.4,4,107.7,-28,4,4,0.9
+"Ohtani, Shohei",608344,single,L,Curveball,79.2,31,93.1,-3,1,2,0.9
+"Ohtani, Shohei",661309,single,R,Changeup,85,186,109.7,10,1,1,0.9
+"Ohtani, Shohei",621076,single,R,4-Seam Fastball,94.3,162,65.3,22,3,3,0.9
+"Ohtani, Shohei",621076,double,R,Sinker,95.7,393,109.3,21,0,0,1.25
+"Ohtani, Shohei",605164,single,R,4-Seam Fastball,89.6,278,100.9,14,0,1,0.9
+"Ohtani, Shohei",656730,single,R,4-Seam Fastball,98.8,57,102.7,1,5,6,0.9
+"Ohtani, Shohei",657746,single,R,4-Seam Fastball,93.6,32,101.3,-5,1,3,0.9
+"Ohtani, Shohei",573204,single,L,4-Seam Fastball,94,141,107.8,7,3,4,0.9
+"Ohtani, Shohei",600917,double,R,Cutter,89.7,206,104.4,13,3,3,1.25
+"Ohtani, Shohei",656271,single,L,4-Seam Fastball,96.1,9,68.4,-17,2,2,0.9
+"Ohtani, Shohei",641540,single,R,4-Seam Fastball,89.3,84,112.8,4,0,0,0.9
+"Ohtani, Shohei",642701,single,R,Changeup,88.5,251,101.3,11,2,2,0.9
+"Ohtani, Shohei",669302,double,R,4-Seam Fastball,95.9,208,102.6,10,0,0,1.25
+"Ohtani, Shohei",571510,single,L,4-Seam Fastball,92.3,133,105.2,7,1,1,0.9
+"Ohtani, Shohei",594835,single,L,4-Seam Fastball,89.3,121,95.5,8,3,3,0.9
+"Ohtani, Shohei",669923,double,R,4-Seam Fastball,96.1,371,106.8,26,0,1,1.25
+"Ohtani, Shohei",592662,double,L,4-Seam Fastball,93.5,205,92,61,0,0,1.25
+"Ohtani, Shohei",663986,double,R,Split-Finger,87.1,158,79.3,15,3,3,1.25
+"Ohtani, Shohei",663986,single,R,4-Seam Fastball,97.3,144,100.2,6,4,4,0.9
+"Ohtani, Shohei",677651,double,R,4-Seam Fastball,94,388,107.2,22,3,3,1.25
+"Ohtani, Shohei",677651,home_run,R,Curveball,78.4,388,100.5,31,0,2,2
+"Ohtani, Shohei",621121,double,R,Knuckle Curve,84,348,96.9,26,0,0,1.25
+"Ohtani, Shohei",605177,home_run,L,Sinker,92.4,401,100.3,34,3,4,2
+"Ohtani, Shohei",641302,home_run,L,4-Seam Fastball,90.4,382,111.4,19,2,4,2
+"Ohtani, Shohei",641302,double,L,Sweeper,79,363,99.3,22,0,0,1.25
+"Ohtani, Shohei",682051,home_run,R,Slider,83,416,108.6,31,7,8,2
+"Ohtani, Shohei",621121,single,R,Changeup,85.5,260,92.5,18,0,0,0.9
+"Ohtani, Shohei",543037,home_run,R,4-Seam Fastball,97.9,427,107.3,24,0,3,2
+"Ohtani, Shohei",642152,single,R,Cutter,94.1,187,81.9,17,3,3,0.9
+"Ohtani, Shohei",593974,double,L,Sinker,96.5,32,97.8,-2,3,3,1.25
+"Ohtani, Shohei",593423,home_run,R,Split-Finger,86.7,398,102.7,28,2,4,2
+"Ohtani, Shohei",476595,single,L,Cutter,86.5,101,85.5,8,4,4,0.9
+"Ohtani, Shohei",548389,single,R,Changeup,84.7,68,96.2,3,0,0,0.9
+"Ohtani, Shohei",641835,home_run,L,Sinker,93.7,357,105.1,29,4,6,2
+"Ohtani, Shohei",548389,single,R,4-Seam Fastball,91.7,219,102.3,12,0,0,0.9
+"Ohtani, Shohei",669952,triple,R,Sweeper,84.5,379,95.7,31,2,4,1.6
+"Ohtani, Shohei",657044,double,R,Sinker,90.4,302,110.7,14,1,2,1.25
+"Ohtani, Shohei",446372,single,R,Cutter,87.8,227,71.1,31,0,0,0.9
+"Ohtani, Shohei",641302,single,L,Sinker,89.2,57,103.9,1,2,2,0.9
+"Ohtani, Shohei",641302,double,L,4-Seam Fastball,91.2,350,109.2,18,0,0,1.25
+"Ohtani, Shohei",669923,single,R,Knuckle Curve,82.9,171,101.5,9,1,2,0.9
+"Ohtani, Shohei",670036,home_run,R,Sweeper,83.8,396,102.9,28,5,7,2
+"Ohtani, Shohei",682171,triple,R,4-Seam Fastball,86.8,194,102.3,13,3,4,1.6
+"Ohtani, Shohei",669923,single,R,Changeup,87,27,104.6,-2,0,0,0.9
+"Ohtani, Shohei",592662,triple,L,Slider,89.2,357,101.2,23,2,2,1.6
+"Ohtani, Shohei",592662,single,L,Slider,87.8,204,87.2,18,1,1,0.9
+"Ohtani, Shohei",662253,single,R,4-Seam Fastball,101.3,34,103.2,-3,2,2,0.9
+"Ohtani, Shohei",662253,single,R,Slider,90.1,0,60.5,-80,2,2,0.9
+"Ohtani, Shohei",605242,single,R,Cutter,90.2,246,83.4,20,3,4,0.9
+"Ohtani, Shohei",661395,home_run,R,Curveball,87.6,399,107,38,0,1,2
+"Ohtani, Shohei",676664,single,L,4-Seam Fastball,94.2,195,99,10,0,0,0.9
+"Ohtani, Shohei",621076,single,R,Changeup,86.1,37,94.3,0,1,1,0.9
+"Ohtani, Shohei",572125,home_run,L,Slider,78.2,378,108.4,24,4,5,2
+"Ohtani, Shohei",594835,single,L,Cutter,85.3,114,96.1,5,2,2,0.9
+"Ohtani, Shohei",657024,single,R,Split-Finger,83,4,48.2,-23,1,1,0.9
+"Ohtani, Shohei",621112,single,R,Cutter,89,231,100.2,14,4,4,0.9
+"Ohtani, Shohei",669912,home_run,L,Slider,79.9,399,107.1,39,5,6,2
+"Ohtani, Shohei",621112,home_run,R,4-Seam Fastball,94.1,403,105.7,26,0,1,2
+"Ohtani, Shohei",608344,double,L,4-Seam Fastball,93.1,173,78.9,16,3,3,1.25
+"Ohtani, Shohei",641540,single,R,Changeup,86.8,73,103.3,4,2,2,0.9
+"Ohtani, Shohei",641540,triple,R,Changeup,86.9,246,105,16,0,0,1.6
+"Ohtani, Shohei",657248,home_run,R,Changeup,88.2,424,108.3,33,0,3,2
+"Ohtani, Shohei",669395,single,R,4-Seam Fastball,100,38,86.7,1,3,4,0.9
+"Ohtani, Shohei",672582,home_run,L,4-Seam Fastball,94.6,420,109.6,33,0,1,2
+"Ohtani, Shohei",425844,double,R,Changeup,86.4,217,101.6,15,0,0,1.25
+"Ohtani, Shohei",657140,home_run,R,Changeup,87.7,361,110.2,22,1,2,2
+"Ohtani, Shohei",657140,single,R,4-Seam Fastball,95.4,88,105.7,4,0,0,0.9
+"Ohtani, Shohei",477132,single,L,4-Seam Fastball,90.9,190,78.1,19,0,0,0.9
+"Ohtani, Shohei",628711,single,L,Slurve,80.6,205,103,14,0,0,0.9
+"Ohtani, Shohei",657571,single,L,4-Seam Fastball,93.3,48,107,0,1,1,0.9
+"Ohtani, Shohei",664285,single,L,Sinker,95.5,190,89.5,12,0,0,0.9
+"Ohtani, Shohei",664299,triple,R,4-Seam Fastball,95.5,176,92.1,14,1,3,1.6
+"Ohtani, Shohei",650556,single,R,Slider,90.6,87,103.6,3,3,3,0.9
+"Ohtani, Shohei",669330,single,R,Cutter,90.1,243,100.2,13,3,3,0.9
+"Ohtani, Shohei",669211,single,L,4-Seam Fastball,92.7,227,87.1,17,3,3,0.9
+"Ohtani, Shohei",622253,home_run,R,Changeup,84.3,418,107.7,33,3,4,2
+"Ohtani, Shohei",669432,single,L,4-Seam Fastball,97.3,59,98.9,0,1,3,0.9
+"Ohtani, Shohei",664285,single,L,Sinker,94.9,25,95,-2,1,2,0.9
+"Ohtani, Shohei",664299,home_run,R,Slider,81.2,394,105.7,36,0,1,2
+"Ohtani, Shohei",456501,home_run,R,Cutter,88,420,107.1,29,2,3,2
+"Ohtani, Shohei",523260,double,R,Sinker,98.3,352,100.6,33,3,4,1.25
+"Ohtani, Shohei",456501,double,R,Changeup,81.4,375,115.2,19,0,0,1.25
+"Ohtani, Shohei",608337,single,R,Slider,84.9,180,98.7,12,2,2,0.9
+"Ohtani, Shohei",669302,home_run,R,4-Seam Fastball,96.8,462,118,28,0,1,2
+"Ohtani, Shohei",623167,single,R,4-Seam Fastball,93.7,115,111.3,6,1,1,0.9
+"Ohtani, Shohei",663738,single,L,4-Seam Fastball,94,4,89.3,-36,0,0,0.9
+"Ohtani, Shohei",669169,home_run,R,4-Seam Fastball,92.3,423,111.5,25,1,4,2
+"Ohtani, Shohei",605130,home_run,R,Curveball,78.6,438,113.5,32,7,10,2
+"Ohtani, Shohei",669169,single,R,4-Seam Fastball,94.3,264,76.2,29,0,0,0.9
+"Ohtani, Shohei",663460,single,L,Curveball,80.2,2,68.7,-48,1,1,0.9
+"Ohtani, Shohei",669923,single,R,4-Seam Fastball,95.6,29,104.3,-4,2,2,0.9
+"Ohtani, Shohei",669923,single,R,Changeup,86.4,55,103.6,1,2,2,0.9
+"Ohtani, Shohei",542881,triple,L,Cutter,86.9,296,98.2,19,0,0,1.6
+"Ohtani, Shohei",664062,single,R,4-Seam Fastball,92.5,117,114.4,6,0,0,0.9
+"Ohtani, Shohei",518886,double,R,Knuckle Curve,84.8,223,94.5,15,0,0,1.25
+"Ohtani, Shohei",471911,home_run,R,Slider,84.8,388,113.5,21,3,5,2
+"Ohtani, Shohei",471911,single,R,Sinker,94.7,41,108.1,-2,3,3,0.9
+"Ohtani, Shohei",471911,double,R,4-Seam Fastball,93.4,355,99.7,24,0,1,1.25
+"Ohtani, Shohei",656849,single,L,Slider,85.2,155,101.6,7,2,2,0.9
+"Ohtani, Shohei",601713,home_run,R,4-Seam Fastball,92.1,394,104.4,27,0,2,2
+"Ohtani, Shohei",656354,single,L,Sweeper,79.4,253,104.1,13,5,5,0.9
+"Ohtani, Shohei",543135,single,R,Cutter,90.6,178,99,12,0,0,0.9
+"Ohtani, Shohei",676477,double,R,Changeup,84.4,381,98.4,27,0,0,1.25
+"Ohtani, Shohei",608379,single,R,Changeup,85,215,93.7,14,0,0,0.9
+"Ohtani, Shohei",502043,double,R,Cutter,87.5,181,101.4,13,0,0,1.25
+"Ohtani, Shohei",554430,single,R,Cutter,93.9,50,43.2,11,0,0,0.9
+"Ohtani, Shohei",641482,single,L,4-Seam Fastball,92.6,280,97.7,16,0,0,0.9
+"Ohtani, Shohei",656756,double,L,Changeup,82.9,201,97.1,15,0,0,1.25
+"Ohtani, Shohei",621244,home_run,R,4-Seam Fastball,92.9,425,106.9,29,2,4,2
+"Ohtani, Shohei",621244,home_run,R,Slurve,83,413,108.8,26,0,1,2
+"Ohtani, Shohei",518748,single,R,Curveball,83,4,85.6,-17,4,4,0.9
+"Ohtani, Shohei",608344,home_run,L,Curveball,75.6,443,108.9,28,0,1,2
+"Ohtani, Shohei",592473,single,L,Sinker,89.9,192,110.8,9,1,1,0.9
+"Ohtani, Shohei",593423,single,R,4-Seam Fastball,97.2,81,53,12,0,0,0.9
+"Ohtani, Shohei",622250,single,R,Curveball,84,204,85.7,19,4,4,0.9
+"Ohtani, Shohei",592351,double,R,4-Seam Fastball,96.1,409,116.5,19,0,1,1.25
+"Ohtani, Shohei",593423,single,R,Split-Finger,86.5,4,91.3,-20,2,2,0.9
+"Ohtani, Shohei",593423,home_run,R,Sinker,95.9,425,108.3,32,0,2,2
+"Ohtani, Shohei",670124,home_run,R,Sinker,92.8,418,110.1,22,6,8,2
+"Ohtani, Shohei",621112,single,R,Sinker,91.4,159,83.5,10,1,1,0.9
+"Ohtani, Shohei",621112,double,R,Cutter,87.6,164,104.4,11,1,1,1.25
+"Ohtani, Shohei",663556,single,L,Curveball,81.3,4,83.6,-25,0,0,0.9
+"Ohtani, Shohei",621433,double,R,Other,54.6,368,108.9,26,10,10,1.25
+"Ohtani, Shohei",592094,single,R,Changeup,88.5,217,71.4,21,8,8,0.9
+"Ohtani, Shohei",605488,single,L,Slider,83,255,89.6,50,0,0,0.9
+"Ohtani, Shohei",656222,home_run,L,Slider,81.1,407,109.4,22,5,6,2
+"Ohtani, Shohei",676534,home_run,R,Sweeper,88.4,413,109.8,29,7,11,2
+"Ohtani, Shohei",663432,double,R,Slider,87.9,391,101.5,24,2,4,1.25
+"Ohtani, Shohei",541640,single,R,Sinker,90.7,270,94.7,17,3,3,0.9
+"Ohtani, Shohei",656557,single,R,4-Seam Fastball,95.1,334,103.7,20,3,4,0.9
+"Ohtani, Shohei",448179,single,L,Sweeper,69.6,388,109.2,36,0,0,0.9
+"Ohtani, Shohei",608379,single,R,Changeup,84.8,261,87.8,19,0,0,0.9
+"Ohtani, Shohei",608337,home_run,R,4-Seam Fastball,93.1,419,108.3,28,1,2,2
+"Ohtani, Shohei",656986,single,L,Slider,87.1,202,85.2,13,3,3,0.9
+"Ohtani, Shohei",668676,single,R,4-Seam Fastball,92.1,65,106.7,3,6,6,0.9
+"Ohtani, Shohei",663531,single,L,Sweeper,80.4,263,75.2,29,9,9,0.9
+"Ohtani, Shohei",663531,double,L,Cutter,84.9,353,108.2,17,7,8,1.25
+"Ohtani, Shohei",663474,single,R,4-Seam Fastball,93.6,81,104.7,4,3,3,0.9
+"Ohtani, Shohei",657508,single,R,4-Seam Fastball,94.9,79,89.7,4,6,6,0.9
+"Ohtani, Shohei",669211,single,L,Slider,83.7,8,88.1,-12,6,6,0.9
+"Ohtani, Shohei",672335,single,L,Slider,83.8,175,101.3,10,7,7,0.9
+"Ohtani, Shohei",664299,single,R,Knuckle Curve,74.8,2,35.2,-50,6,6,0.9
+"Ohtani, Shohei",642130,double,L,4-Seam Fastball,92,320,92.8,37,4,6,1.25
+"Ohtani, Shohei",677651,single,R,Changeup,86.6,164,77,17,2,2,0.9
+"Ohtani, Shohei",527048,single,L,Curveball,77.4,108,69.4,12,0,0,0.9
+"Ohtani, Shohei",519043,single,L,Knuckle Curve,83.4,3,80.5,-33,3,3,0.9
+"Ohtani, Shohei",518813,home_run,R,Curveball,80,390,108,24,4,6,2
+"Ohtani, Shohei",663465,home_run,L,Cutter,85.7,415,108.1,35,3,5,2
+"Ohtani, Shohei",456713,home_run,R,4-Seam Fastball,95.9,406,108,41,0,1,2
+"Ohtani, Shohei",656685,double,L,Slider,86.7,252,97.5,17,4,4,1.25
+"Ohtani, Shohei",642121,single,R,Changeup,81.6,269,93,20,3,3,0.9
+"Ohtani, Shohei",622694,single,R,4-Seam Fastball,90.4,151,101,6,0,0,0.9
+"Ohtani, Shohei",664353,double,R,4-Seam Fastball,95.1,315,119.1,17,1,1,1.25
+"Ohtani, Shohei",543606,single,R,Split-Finger,86.2,207,71.6,20,0,0,0.9
+"Ohtani, Shohei",621111,home_run,R,Changeup,89.7,412,110.9,23,3,4,2
+"Ohtani, Shohei",468504,home_run,R,Sinker,92.1,367,104,33,5,7,2
+"Ohtani, Shohei",542881,home_run,L,Cutter,86.4,418,112.9,20,0,1,2
+"Ohtani, Shohei",656685,double,L,Slider,86.4,5,68.4,-14,6,6,1.25
+"Ohtani, Shohei",657248,triple,R,Changeup,84.8,147,106.7,9,0,1,1.6
+"Ohtani, Shohei",621368,single,L,4-Seam Fastball,92.1,100,101.8,5,2,2,0.9
+"Ohtani, Shohei",622250,single,R,4-Seam Fastball,97.9,114,109,6,6,6,0.9
+"Ohtani, Shohei",594835,single,L,Cutter,86.7,136,99.6,10,1,1,0.9
+"Ohtani, Shohei",542881,triple,L,Slider,81.1,155,100.3,10,3,4,1.6
+"Ohtani, Shohei",542881,triple,L,Changeup,80.3,299,101.8,22,0,1,1.6
+"Ohtani, Shohei",664353,single,R,Curveball,79.4,231,109.1,15,1,1,0.9
+"Ohtani, Shohei",664299,home_run,R,4-Seam Fastball,93.8,445,116.1,26,4,5,2
+"Ohtani, Shohei",605177,single,L,4-Seam Fastball,92.3,270,108.7,13,1,1,0.9
+"Ohtani, Shohei",500610,single,R,4-Seam Fastball,91.7,27,68.4,-2,0,0,0.9
+"Ohtani, Shohei",608344,single,L,Slider,82.3,64,105.4,2,0,0,0.9
+"Ohtani, Shohei",625643,single,R,4-Seam Fastball,95.2,28,81.9,-1,0,0,0.9
+"Ohtani, Shohei",605240,single,L,Cutter,86,178,76.8,16,7,7,0.9
+"Ohtani, Shohei",608665,single,R,Changeup,89.7,157,95.2,10,1,1,0.9
+"Ohtani, Shohei",677651,single,R,4-Seam Fastball,92.9,141,106.9,8,0,0,0.9
+"Ohtani, Shohei",664285,home_run,L,Sinker,93.8,368,114.7,22,0,1,2
+"Ohtani, Shohei",657612,single,L,Sinker,91.5,13,81.7,-9,2,2,0.9
+"Ohtani, Shohei",663465,home_run,L,Cutter,88,426,107.2,31,1,4,2
+"Ohtani, Shohei",607359,single,R,4-Seam Fastball,94.6,261,105.4,17,4,4,0.9
+"Ohtani, Shohei",571760,home_run,L,Curveball,80.7,431,111.8,38,5,6,2
+"Ohtani, Shohei",669211,home_run,L,Slider,81.9,374,110.7,45,0,1,2
+"Ohtani, Shohei",650959,single,R,4-Seam Fastball,93.1,186,103.5,12,13,13,0.9
+"Ohtani, Shohei",656529,single,L,Slider,84.4,113,93.4,7,0,0,0.9
+"Ohtani, Shohei",666159,single,R,4-Seam Fastball,94.8,224,92,17,2,2,0.9
+"Ohtani, Shohei",502706,single,L,Knuckle Curve,83.5,1,57.9,-66,2,2,0.9
+"Ohtani, Shohei",542585,home_run,R,Cutter,88.7,430,110.1,31,2,3,2
+"Ohtani, Shohei",663554,single,R,4-Seam Fastball,91.4,79,99.9,3,0,0,0.9
+"Ohtani, Shohei",621121,single,R,Knuckle Curve,85.1,146,95.9,10,0,0,0.9
+"Ohtani, Shohei",621121,single,R,Sinker,94.6,29,77.7,-4,0,0,0.9
+"Ohtani, Shohei",677651,single,R,4-Seam Fastball,93.3,122,101.8,6,2,2,0.9
+"Ohtani, Shohei",677651,home_run,R,Changeup,84.8,393,107.3,24,0,1,2
+"Ohtani, Shohei",608665,single,R,4-Seam Fastball,97.9,94,55.8,14,0,1,0.9
+"Ohtani, Shohei",621244,double,R,Sinker,94,385,112,20,0,0,1.25
+"Ohtani, Shohei",666201,home_run,R,Slider,82.9,413,105.6,25,0,2,2
+"Ohtani, Shohei",548389,triple,R,Changeup,82.1,171,90.1,14,0,0,1.6
+"Ohtani, Shohei",543475,double,R,Curveball,80.7,215,109.9,14,3,3,1.25
+"Ohtani, Shohei",642701,single,R,Changeup,88.1,56,83.2,3,6,6,0.9
+"Ohtani, Shohei",608344,double,L,4-Seam Fastball,90.4,172,110.6,9,0,1,1.25
+"Ohtani, Shohei",605135,single,R,Cutter,90.1,277,87.7,21,0,0,0.9
+"Ohtani, Shohei",622786,home_run,R,Split-Finger,89.3,388,113.1,22,1,4,2
+"Ohtani, Shohei",656458,single,L,Slider,82,90,89.4,6,0,0,0.9
+"Ohtani, Shohei",596295,home_run,L,Slider,85.1,463,110.4,26,0,2,2
+"Ohtani, Shohei",608566,single,R,Sinker,94.6,34,88.8,-1,0,1,0.9
+"Ohtani, Shohei",641927,single,R,Changeup,87.4,127,79.7,10,0,0,0.9
+"Ohtani, Shohei",543056,home_run,L,Slider,85.3,414,112.6,25,2,3,2
+"Ohtani, Shohei",573204,double,L,Sweeper,80.3,322,104.8,18,2,2,1.25
+"Ohtani, Shohei",621244,double,R,Sinker,93,323,113.8,17,0,0,1.25
+"Ohtani, Shohei",608344,double,L,4-Seam Fastball,91.4,350,115.9,15,0,0,1.25
+"Ohtani, Shohei",623149,home_run,R,Sweeper,79.9,419,107.3,25,2,4,2
+"Ohtani, Shohei",664948,single,L,Curveball,80.7,5,97.5,-18,2,2,0.9
+"Ohtani, Shohei",608665,single,R,Slider,88,281,107.7,11,3,5,0.9
+"Ohtani, Shohei",502327,double,L,Sinker,87.1,214,106.6,14,0,0,1.25
+"Ohtani, Shohei",657024,single,R,Split-Finger,84.5,40,88.6,-1,4,4,0.9
+"Ohtani, Shohei",594835,home_run,L,4-Seam Fastball,88.9,463,116.5,31,2,3,2
+"Ohtani, Shohei",593958,home_run,L,Changeup,84.4,433,114.5,25,2,3,2
+"Ohtani, Shohei",593958,single,L,Sinker,89.8,194,64.4,28,0,0,0.9
+"Ohtani, Shohei",543135,double,R,Split-Finger,89.5,323,107.5,18,0,1,1.25
+"Ohtani, Shohei",527048,single,L,Sinker,92.5,210,74,22,2,2,0.9
+"Ohtani, Shohei",664045,home_run,R,Slider,78.3,459,112.5,31,2,3,2
+"Ohtani, Shohei",669211,home_run,L,4-Seam Fastball,91.9,416,104.5,30,2,3,2
+"Ohtani, Shohei",622253,home_run,R,Sinker,95.9,400,111.1,28,5,7,2
+"Ohtani, Shohei",592791,home_run,R,4-Seam Fastball,94.7,356,112.4,18,3,5,2
+"Ohtani, Shohei",592791,home_run,R,Changeup,88.2,395,109.6,23,2,3,2
+"Ohtani, Shohei",650633,home_run,R,Sweeper,80.3,416,117.2,25,0,1,2
+"Ohtani, Shohei",642232,double,L,4-Seam Fastball,86.7,347,104.3,22,1,2,1.25
+"Ohtani, Shohei",664126,home_run,R,4-Seam Fastball,94.8,384,107.5,38,5,6,2
+"Ohtani, Shohei",605488,triple,L,Slider,84,224,88.7,18,3,4,1.6
+"Ohtani, Shohei",663556,double,L,Slider,91.3,54,29,43,0,1,1.25
+"Ohtani, Shohei",676596,single,L,Sinker,91.3,3,40,-31,2,2,0.9
+"Ohtani, Shohei",552640,home_run,R,Changeup,89.9,453,116.1,27,0,1,2
+"Ohtani, Shohei",663554,home_run,R,Slider,84.6,414,103.5,23,1,3,2
+"Ohtani, Shohei",503449,home_run,R,Sinker,95.3,398,107.6,25,1,3,2
+"Ohtani, Shohei",570632,home_run,R,Sinker,92.2,400,114.3,18,3,5,2
+"Ohtani, Shohei",641729,home_run,R,Changeup,90.3,408,109,26,10,11,2
+"Ohtani, Shohei",608344,single,L,4-Seam Fastball,90.4,3,33.6,-44,4,4,0.9
+"Ohtani, Shohei",608344,home_run,L,Slider,84.4,435,110.9,30,3,4,2
+"Ohtani, Shohei",666200,home_run,L,4-Seam Fastball,98.1,429,115.8,25,2,3,2
+"Ohtani, Shohei",640455,single,L,Changeup,84.9,218,81.7,19,1,1,0.9
+"Ohtani, Shohei",528748,single,R,Curveball,78.2,149,108.8,8,4,4,0.9
+"Ohtani, Shohei",518876,double,R,Sinker,93.3,285,114.9,14,1,2,1.25
+"Ohtani, Shohei",664199,double,R,Curveball,78.1,371,108.3,24,4,4,1.25
+"Ohtani, Shohei",641745,single,R,Slider,88.4,226,105,10,0,0,0.9
+"Ohtani, Shohei",663460,double,L,Curveball,78.3,304,112.6,17,2,2,1.25
+"Ohtani, Shohei",663460,home_run,L,Changeup,80.2,470,111.7,31,0,2,2
+"Ohtani, Shohei",664948,double,L,Curveball,81,280,93.6,22,11,12,1.25
+"Ohtani, Shohei",579328,home_run,L,Cutter,94.3,436,112.5,21,0,1,2
+"Ohtani, Shohei",593423,single,R,4-Seam Fastball,97.1,232,95.4,14,1,3,0.9
+"Ohtani, Shohei",592135,single,R,4-Seam Fastball,93.7,183,109.7,8,4,4,0.9
+"Ohtani, Shohei",605138,single,L,Cutter,86,1,69.5,-65,9,9,0.9
+"Ohtani, Shohei",676969,home_run,R,Cutter,89.4,380,117,24,6,9,2
+"Ohtani, Shohei",605135,triple,R,Curveball,73.7,396,102.3,22,1,2,1.6
+"Ohtani, Shohei",605135,double,R,4-Seam Fastball,93.8,80,68.5,7,0,0,1.25
+"Ohtani, Shohei",650644,single,R,Cutter,88.6,26,34.7,2,2,2,0.9
+"Ohtani, Shohei",668676,single,R,Changeup,88,295,97.8,15,1,1,0.9
+"Ohtani, Shohei",668676,home_run,R,4-Seam Fastball,93.7,440,111.9,31,0,1,2
+"Ohtani, Shohei",656529,home_run,L,4-Seam Fastball,93.6,431,105.9,27,3,6,2
+"Ohtani, Shohei",598264,home_run,R,4-Seam Fastball,96.7,372,96.6,36,4,6,2
+"Ohtani, Shohei",527048,single,L,Sinker,95.3,55,66.9,2,0,0,0.9
+"Ohtani, Shohei",601713,home_run,R,Knuckle Curve,79.4,370,101.7,33,0,1,2
+"Ohtani, Shohei",601713,double,R,Knuckle Curve,80.4,312,95.2,28,0,0,1.25
+"Ohtani, Shohei",621121,single,R,Changeup,83.8,196,94.7,13,0,0,0.9
+"Ohtani, Shohei",545333,single,R,Cutter,87.5,5,76.8,-16,0,0,0.9
+"Ohtani, Shohei",642701,single,R,Changeup,87,27,93,-4,0,0,0.9
+"Ohtani, Shohei",628711,double,L,4-Seam Fastball,94.5,354,104.7,22,4,5,1.25
+"Ohtani, Shohei",523260,double,R,Changeup,87.5,368,97.1,24,7,8,1.25
+"Ohtani, Shohei",676596,home_run,L,Sinker,91.6,428,107.6,33,1,3,2
+"Ohtani, Shohei",519326,single,R,Changeup,89.7,12,80.9,-13,3,3,0.9
+"Ohtani, Shohei",607192,home_run,R,Slider,88.1,427,110.3,34,0,2,2
+"Ohtani, Shohei",607192,double,R,Curveball,85,59,98.2,1,0,0,1.25
+"Ohtani, Shohei",623167,home_run,R,Changeup,82.9,364,97,34,2,3,2
+"Ohtani, Shohei",641540,double,R,Sinker,90.4,378,105,22,4,4,1.25
+"Ohtani, Shohei",543475,double,R,4-Seam Fastball,92.7,199,113.8,11,1,3,1.25
+"Ohtani, Shohei",660365,single,L,4-Seam Fastball,88.7,50,27.5,47,7,7,0.9
+"Ohtani, Shohei",677651,home_run,R,4-Seam Fastball,92.5,440,107.1,27,2,3,2
+"Ohtani, Shohei",592288,home_run,L,Sinker,92,413,108.3,33,1,2,2
+"Ohtani, Shohei",425844,double,R,4-Seam Fastball,89.4,141,101.9,8,0,1,1.25
+"Ohtani, Shohei",425844,single,R,4-Seam Fastball,88.8,189,72.9,17,0,0,0.9
+"Ohtani, Shohei",592314,home_run,R,Slider,83.4,402,107.2,38,1,2,2
+"Ohtani, Shohei",677976,single,R,Changeup,85.6,213,78.6,20,2,2,0.9
+"Ohtani, Shohei",518633,home_run,L,Slider,83.5,431,108.9,29,0,1,2
+"Ohtani, Shohei",518813,single,R,4-Seam Fastball,94.5,106,111.3,5,2,2,0.9
+"Ohtani, Shohei",518633,single,L,Curveball,80.2,16,90.9,-9,0,0,0.9
+"Ohtani, Shohei",623470,double,R,Slider,84.3,265,83.8,28,7,8,1.25
+"Ohtani, Shohei",605130,double,R,4-Seam Fastball,95.1,353,119,18,4,6,1.25
+"Ohtani, Shohei",663903,single,R,Slider,87.9,181,106.5,7,0,0,0.9
+"Ohtani, Shohei",571927,triple,L,Curveball,78.9,278,82.1,33,0,0,1.6
+"Ohtani, Shohei",643615,home_run,R,Sinker,91.6,422,108.2,30,4,5,2
+"Ohtani, Shohei",643615,double,R,Changeup,80.5,369,98.3,30,1,4,1.25
+"Ohtani, Shohei",605447,single,R,Slider,91.2,278,113.8,14,4,5,0.9
+"Ohtani, Shohei",519151,single,R,Curveball,81.9,273,87.3,22,2,2,0.9
+"Ohtani, Shohei",425844,single,R,Changeup,87.5,68,33.6,35,0,0,0.9
+"Ohtani, Shohei",656302,home_run,R,4-Seam Fastball,97,451,115.2,21,0,1,2
+"Ohtani, Shohei",458681,single,R,4-Seam Fastball,93.7,204,95.4,17,2,2,0.9
+"Ohtani, Shohei",521230,home_run,R,4-Seam Fastball,97.3,421,106.3,29,6,8,2
+"Ohtani, Shohei",572971,triple,L,Sinker,87.7,48,108,0,0,0,1.6
+"Ohtani, Shohei",669160,single,R,Sinker,98.6,73,93.4,3,0,0,0.9
+"Ohtani, Shohei",596295,home_run,L,4-Seam Fastball,90.9,363,95.6,42,0,1,2
+"Ohtani, Shohei",624647,single,L,Slider,86,84,68.6,9,0,0,0.9
+"Ohtani, Shohei",670970,home_run,L,4-Seam Fastball,96.4,415,109,23,0,2,2
+"Ohtani, Shohei",458681,single,R,Sinker,93.6,245,104,12,1,1,0.9
+"Ohtani, Shohei",458681,home_run,R,4-Seam Fastball,95.1,385,109.1,21,0,1,2
+"Ohtani, Shohei",621129,single,R,Changeup,84.8,205,78.3,20,1,1,0.9
+"Ohtani, Shohei",458681,single,R,4-Seam Fastball,94.3,188,75.9,19,0,0,0.9
+"Ohtani, Shohei",656232,single,R,Cutter,87,187,65.3,24,0,1,0.9
+"Ohtani, Shohei",548384,single,L,Sweeper,80.6,208,82.4,19,5,6,0.9
+"Ohtani, Shohei",621381,single,L,Curveball,83.5,12,74.4,-7,2,2,0.9
+"Ohtani, Shohei",594835,single,L,4-Seam Fastball,87.9,227,77.9,20,1,1,0.9
+"Ohtani, Shohei",643290,single,R,Slider,84.9,241,109.9,15,0,0,0.9
+"Ohtani, Shohei",676606,double,L,4-Seam Fastball,89.2,124,100.7,8,0,0,1.25
+"Ohtani, Shohei",607352,double,R,Sinker,92.7,134,101.1,8,10,12,1.25
+"Ohtani, Shohei",605482,single,R,Cutter,92.6,35,79.9,-4,4,4,0.9
+"Ohtani, Shohei",593423,home_run,R,Sinker,95.3,439,111.3,28,0,3,2
+"Ohtani, Shohei",518617,single,L,Sweeper,83.6,14,97,-10,4,4,0.9
+"Ohtani, Shohei",669160,single,R,Sinker,98.1,224,87.4,19,0,0,0.9
+"Ohtani, Shohei",595014,double,R,Slider,89,218,82.1,19,3,3,1.25
+"Ohtani, Shohei",571666,single,R,Changeup,83,62,84.5,4,1,1,0.9
+"Ohtani, Shohei",596043,single,R,4-Seam Fastball,91.3,89,100.4,4,5,5,0.9
+"Ohtani, Shohei",642152,home_run,R,Sinker,95.8,417,110.4,23,7,9,2
+"Ohtani, Shohei",519008,double,L,Sinker,88.2,197,84.2,17,6,6,1.25
+"Ohtani, Shohei",458681,single,R,4-Seam Fastball,94.4,303,107.5,14,0,0,0.9
+"Ohtani, Shohei",450172,double,R,Sinker,94.2,220,76.7,20,2,2,1.25
+"Ohtani, Shohei",592836,home_run,R,Split-Finger,87.5,351,102,39,0,1,2
+"Ohtani, Shohei",656186,home_run,R,4-Seam Fastball,98.5,402,105.4,31,2,5,2
+"Ohtani, Shohei",643290,home_run,R,Curveball,80.9,402,101,27,0,3,2
+"Ohtani, Shohei",665093,double,R,Sinker,91.4,388,111.9,20,7,8,1.25
+"Ohtani, Shohei",593423,single,R,Sinker,95.7,249,86.3,17,0,0,0.9
+"Ohtani, Shohei",664192,single,L,Sinker,90.7,61,105.6,1,1,1,0.9
+"Ohtani, Shohei",592644,home_run,R,Cutter,84.2,403,114.4,19,1,2,2
+"Ohtani, Shohei",656302,single,R,Knuckle Curve,80.8,96,111,3,0,1,0.9
+"Ohtani, Shohei",592229,home_run,R,Sinker,96.2,403,106.6,33,2,5,2
+"Ohtani, Shohei",608334,single,R,Curveball,83.1,88,90,5,7,7,0.9
+"Ohtani, Shohei",592229,double,R,Curveball,85.5,269,95.3,18,0,2,1.25
+"Ohtani, Shohei",608337,triple,R,Changeup,83.3,30,93.9,-2,1,1,1.6
+"Ohtani, Shohei",608337,double,R,4-Seam Fastball,96,138,108.6,4,0,0,1.25
+"Ohtani, Shohei",571666,double,R,Sinker,89.7,229,74.6,39,3,4,1.25
+"Ohtani, Shohei",661403,double,R,Cutter,99.8,369,102.7,21,0,0,1.25
+"Ohtani, Shohei",501985,single,L,Knuckle Curve,79.6,176,91.6,10,0,0,0.9
+"Ohtani, Shohei",489119,single,L,Cutter,87.5,237,99.1,11,0,0,0.9
+"Ohtani, Shohei",656271,single,L,4-Seam Fastball,92.4,99,75.1,7,0,0,0.9
+"Ohtani, Shohei",656271,single,L,4-Seam Fastball,92.8,122,100.5,4,0,0,0.9
+"Ohtani, Shohei",518875,double,R,Slider,83.4,278,98.3,19,0,1,1.25
+"Ohtani, Shohei",663465,triple,L,Cutter,87.4,272,100.2,12,5,6,1.6
+"Ohtani, Shohei",518875,single,R,4-Seam Fastball,92.9,155,107.7,8,7,7,0.9
+"Ohtani, Shohei",446321,single,L,Sinker,90.8,4,89.6,-21,9,9,0.9
+"Ohtani, Shohei",446321,home_run,L,Cutter,88.3,431,105.1,23,5,7,2
+"Ohtani, Shohei",605240,single,L,Cutter,86.9,194,63.2,24,2,2,0.9
+"Ohtani, Shohei",608337,single,R,Changeup,81.8,8,66.1,-17,0,1,0.9
+"Ohtani, Shohei",625643,single,R,Changeup,88.4,271,92.5,18,2,2,0.9
+"Ohtani, Shohei",625643,double,R,4-Seam Fastball,98.2,383,108.9,19,0,0,1.25
+"Ohtani, Shohei",502042,single,R,4-Seam Fastball,93.8,176,104.9,10,0,0,0.9
+"Ohtani, Shohei",664129,single,R,4-Seam Fastball,97.4,52,109.9,0,4,4,0.9
+"Ohtani, Shohei",592866,triple,R,Slider,83.6,254,81.1,33,3,4,1.6
+"Ohtani, Shohei",592866,double,R,4-Seam Fastball,94,197,97,10,0,1,1.25
+"Ohtani, Shohei",608717,single,R,Changeup,84.7,2,58,-32,2,2,0.9
+"Ohtani, Shohei",488768,single,R,Changeup,86,243,75.7,22,1,3,0.9
+"Ohtani, Shohei",598264,single,R,Knuckle Curve,86.4,134,94,7,3,3,0.9
+"Ohtani, Shohei",488768,single,R,4-Seam Fastball,95.3,201,94.1,12,0,0,0.9
+"Ohtani, Shohei",519144,double,R,Curveball,76.4,343,105.7,18,0,0,1.25
+"Ohtani, Shohei",584171,single,R,Changeup,87.4,254,95.3,12,7,9,0.9
+"Ohtani, Shohei",592644,double,R,4-Seam Fastball,90.8,257,89.2,18,0,0,1.25
+"Ohtani, Shohei",424144,single,L,Sinker,92,20,69.2,-6,1,1,0.9
+"Ohtani, Shohei",572403,single,R,Sinker,92.1,149,105.3,8,2,3,0.9
+"Ohtani, Shohei",572403,single,R,4-Seam Fastball,94.6,62,87.6,2,2,2,0.9
+"Ohtani, Shohei",572403,single,R,Sinker,92.8,30,103.4,-2,0,0,0.9
+"Ohtani, Shohei",605156,home_run,R,Slider,83,441,107.1,24,4,5,2
+"Ohtani, Shohei",592879,triple,R,4-Seam Fastball,91.8,230,91.1,19,0,0,1.6
+"Ohtani, Shohei",628317,single,R,4-Seam Fastball,93.1,133,96.7,8,0,1,0.9
+"Ohtani, Shohei",579328,double,L,4-Seam Fastball,92,380,100,24,5,5,1.25
+"Ohtani, Shohei",657024,single,R,Slider,88.9,86,106.1,3,8,8,0.9
+"Ohtani, Shohei",606273,single,L,4-Seam Fastball,95,237,110.9,10,6,6,0.9
+"Ohtani, Shohei",543037,single,R,Slider,89.9,10,86,-7,1,1,0.9
+"Ohtani, Shohei",501925,single,R,Sinker,87.4,11,99.1,-9,1,1,0.9
+"Ohtani, Shohei",444468,single,R,4-Seam Fastball,96.1,94,72.1,7,0,1,0.9
+"Ohtani, Shohei",606965,single,R,4-Seam Fastball,95.1,244,113.8,11,6,6,0.9
+"Ohtani, Shohei",542914,single,R,Slider,86.9,8,97.3,-10,3,3,0.9
+"Ohtani, Shohei",502190,single,R,Cutter,86.8,259,90.2,19,2,2,0.9
+"Ohtani, Shohei",664353,home_run,R,4-Seam Fastball,91.3,397,106.3,34,2,4,2
+"Ohtani, Shohei",543037,double,R,Knuckle Curve,84,20,96.1,-6,0,0,1.25
+"Ohtani, Shohei",434378,home_run,R,4-Seam Fastball,94.9,423,107.5,32,2,3,2
+"Ohtani, Shohei",458681,single,R,4-Seam Fastball,95.1,139,70.6,12,1,1,0.9
+"Ohtani, Shohei",458681,single,R,Sinker,93.8,30,92.5,-3,1,1,0.9
+"Ohtani, Shohei",642558,double,R,Sinker,91.2,377,105.1,20,5,5,1.25
+"Ohtani, Shohei",570488,double,R,Sinker,92.6,342,98.7,23,6,6,1.25
+"Ohtani, Shohei",657766,single,L,Slider,77.1,155,83.2,10,9,9,0.9
+"Ohtani, Shohei",605135,home_run,R,Curveball,72.1,391,102.3,36,0,1,2
+"Ohtani, Shohei",605156,home_run,R,Sinker,91.6,447,109.5,24,2,3,2
+"Ohtani, Shohei",571666,single,R,4-Seam Fastball,91.1,16,91.8,-12,0,0,0.9
+"Ohtani, Shohei",571666,single,R,Changeup,84,100,101.6,4,0,0,0.9
+"Ohtani, Shohei",488748,double,L,4-Seam Fastball,92.8,241,110.3,9,1,1,1.25
+"Ohtani, Shohei",664196,home_run,R,Sinker,91.6,406,104.7,22,2,4,2
+"Ohtani, Shohei",543699,double,R,Slider,86,329,115.1,16,0,0,1.25
+"Ohtani, Shohei",628452,single,R,4-Seam Fastball,94.5,239,94.2,16,1,1,0.9
+"Ohtani, Shohei",543699,single,R,Curveball,76.9,276,104.8,14,0,0,0.9
+"Ohtani, Shohei",641816,single,R,4-Seam Fastball,91.5,8,103.8,-22,4,4,0.9
+"Ohtani, Shohei",643778,single,L,Changeup,77.5,142,105.5,7,1,1,0.9
+"Ohtani, Shohei",592717,single,R,Changeup,88.2,1,64.5,-74,3,3,0.9
+"Ohtani, Shohei",596101,double,R,Slider,85,149,97.5,6,7,7,1.25
+"Ohtani, Shohei",429719,home_run,R,Changeup,87.1,375,99.6,29,4,7,2
+"Ohtani, Shohei",592468,double,R,Slider,82.7,170,104.8,7,10,10,1.25
+"Ohtani, Shohei",656222,single,L,Changeup,85.7,76,98.3,4,2,2,0.9
+"Ohtani, Shohei",650895,single,R,Sinker,98.7,109,93.9,5,5,5,0.9
+"Ohtani, Shohei",605483,single,L,4-Seam Fastball,95.5,269,94.8,17,0,0,0.9
+"Ohtani, Shohei",642232,triple,L,Curveball,72.2,165,90.7,11,3,3,1.6
+"Ohtani, Shohei",642232,double,L,Cutter,83.3,354,107.9,17,3,3,1.25
+"Ohtani, Shohei",621056,single,R,Slider,86.6,228,81.5,17,5,5,0.9
+"Ohtani, Shohei",642232,home_run,L,4-Seam Fastball,88.8,414,110.6,19,0,3,2
+"Ohtani, Shohei",628317,home_run,R,Slider,82,416,107.6,21,0,1,2
+"Ohtani, Shohei",520980,single,R,Changeup,87.4,239,71.1,27,5,5,0.9
+"Ohtani, Shohei",579328,home_run,L,Curveball,75.2,396,106.9,35,5,6,2
+"Ohtani, Shohei",605463,double,R,Sinker,94.7,15,108,-10,7,8,1.25
+"Ohtani, Shohei",579328,single,L,Slider,85.5,5,79.1,-25,0,0,0.9
+"Ohtani, Shohei",571666,single,R,4-Seam Fastball,91.5,185,110.1,11,0,0,0.9
+"Ohtani, Shohei",596043,single,R,4-Seam Fastball,91.9,201,112.4,12,3,3,0.9
+"Ohtani, Shohei",433589,home_run,R,4-Seam Fastball,88.1,400,104.3,35,5,8,2
+"Ohtani, Shohei",593423,home_run,R,Sinker,95.5,388,104.1,34,0,2,2
+"Ohtani, Shohei",593423,single,R,Sinker,97.3,7,102.9,-13,0,0,0.9
+"Ohtani, Shohei",502190,home_run,R,Sinker,88.6,362,107.2,20,1,2,2
+"Ohtani, Shohei",592145,single,L,Slider,88.2,76,81.7,5,2,3,0.9
+"Ohtani, Shohei",623913,single,L,Slider,83.9,89,75.2,8,5,5,0.9
+"Ohtani, Shohei",593423,single,R,Split-Finger,86.7,11,81.2,-13,4,4,0.9
+"Ohtani, Shohei",465657,single,R,4-Seam Fastball,94.7,246,103.4,14,4,6,0.9
+"Ohtani, Shohei",642152,single,R,Changeup,89.2,157,85.5,10,5,5,0.9
+"Ohtani, Shohei",501985,single,L,Slider,87.6,3,58.7,-25,1,1,0.9
+"Ohtani, Shohei",501381,single,R,Changeup,87.9,233,86.7,18,3,3,0.9
+"Ohtani, Shohei",596001,home_run,R,4-Seam Fastball,91.2,393,111,39,2,4,2
+"Ohtani, Shohei",641745,single,R,4-Seam Fastball,93.1,287,95.7,18,4,4,0.9
+"Ohtani, Shohei",543507,single,R,4-Seam Fastball,95,217,100.1,10,3,3,0.9
+"Ohtani, Shohei",502043,single,R,Changeup,84.2,63,77.2,4,2,3,0.9
+"Ohtani, Shohei",502043,single,R,4-Seam Fastball,96,289,108.5,14,0,0,0.9
+"Ohtani, Shohei",621244,home_run,R,4-Seam Fastball,92.5,429,111.6,31,1,3,2
+"Ohtani, Shohei",573124,single,L,Curveball,82.8,281,82.8,27,5,5,0.9
+"Ohtani, Shohei",642231,single,R,Changeup,85.7,212,88.3,16,6,7,0.9
+"Ohtani, Shohei",593679,single,R,4-Seam Fastball,93,262,105,12,3,3,0.9
+"Ohtani, Shohei",543001,single,L,4-Seam Fastball,89.5,116,100.6,6,5,5,0.9
+"Ohtani, Shohei",543001,single,L,Slider,82.4,211,111.2,13,0,1,0.9
+"Ohtani, Shohei",501822,single,R,4-Seam Fastball,94.3,224,103.1,9,2,2,0.9
+"Ohtani, Shohei",571666,double,R,Changeup,83.8,221,111.5,11,5,5,1.25
+"Ohtani, Shohei",518883,single,L,Slider,77,36,23.9,42,6,7,0.9
+"Ohtani, Shohei",571666,single,R,4-Seam Fastball,90.9,230,83.7,17,0,0,0.9
+"Ohtani, Shohei",622795,single,L,Curveball,77.7,70,105.9,3,0,1,0.9
+"Ohtani, Shohei",455119,home_run,R,4-Seam Fastball,95.7,375,105,24,2,3,2
+"Ohtani, Shohei",527048,single,L,Slider,85.9,208,67,25,0,1,0.9
+"Ohtani, Shohei",592716,home_run,R,Sinker,90.4,428,112.9,36,0,1,2
+"Ohtani, Shohei",474463,single,L,Sinker,89.8,4,94.5,-28,0,0,0.9
+"Ohtani, Shohei",488748,single,L,4-Seam Fastball,92.1,86,85.6,4,1,1,0.9
+"Ohtani, Shohei",670036,single,R,Slider,86,121,109.5,7,4,4,0.9
+"Ohtani, Shohei",541640,home_run,R,Sinker,88.8,418,103.8,26,2,3,2
+"Ohtani, Shohei",607473,double,R,Slider,83.9,322,108.1,12,1,1,1.25
+"Ohtani, Shohei",451596,double,R,Slider,90.2,359,108.3,21,2,2,1.25
+"Ohtani, Shohei",572750,single,R,4-Seam Fastball,94.4,77,109.3,3,7,7,0.9
+"Ohtani, Shohei",501985,double,L,Slider,87.9,313,105.6,18,0,0,1.25
+"Ohtani, Shohei",592222,single,L,Sinker,85.6,163,109,7,1,2,0.9
+"Ohtani, Shohei",573668,double,R,Changeup,90.5,265,102.3,13,1,1,1.25
+"Ohtani, Shohei",605240,triple,L,Cutter,87.3,64,104.4,2,6,9,1.6
+"Ohtani, Shohei",448306,single,R,Sinker,89,83,112,3,2,2,0.9
+"Ohtani, Shohei",607074,home_run,L,4-Seam Fastball,94,412,105.6,30,1,4,2
+"Ohtani, Shohei",112526,single,R,Changeup,79.5,3,63.8,-30,2,2,0.9
+"Ohtani, Shohei",641962,single,L,4-Seam Fastball,96.8,279,109.8,13,6,6,0.9
+"Ohtani, Shohei",502212,home_run,R,4-Seam Fastball,90.3,361,107.3,45,5,6,2
+"Ohtani, Shohei",501985,home_run,L,Slider,86.4,413,102.6,27,1,2,2
+"Ohtani, Shohei",664285,single,L,Sinker,92.1,3,82.8,-49,0,0,0.9
+"Ohtani, Shohei",606965,single,R,4-Seam Fastball,94.1,234,111.6,12,4,4,0.9
+"Ohtani, Shohei",493603,single,R,Sinker,93.1,287,83.2,24,5,5,0.9
+"Ohtani, Shohei",434378,home_run,R,Changeup,86.8,416,104.3,29,0,2,2
+"Ohtani, Shohei",434378,double,R,Changeup,86.8,217,79.6,20,0,0,1.25
+"Ohtani, Shohei",451596,double,R,Slider,90.5,15,99.1,-6,0,0,1.25
+"Ohtani, Shohei",572750,home_run,R,4-Seam Fastball,94.5,410,106.7,26,7,10,2
+"Ohtani, Shohei",642558,single,R,Changeup,86.7,123,101.7,5,1,2,0.9
+"Ohtani, Shohei",544727,single,R,Slider,89.4,294,97.5,18,5,7,0.9
+"Ohtani, Shohei",641941,single,R,4-Seam Fastball,93.9,274,88.6,18,0,0,0.9
+"Ohtani, Shohei",545363,home_run,R,Sinker,95.1,411,107.2,34,0,3,2
+"Ohtani, Shohei",622505,single,R,Sinker,94.6,12,91.8,-13,7,7,0.9
+"Ohtani, Shohei",669456,single,R,Knuckle Curve,79.8,214,79.2,19,1,2,0.9
+"Ohtani, Shohei",669456,double,R,Knuckle Curve,81.1,400,102.6,24,0,0,1.25
+"Ohtani, Shohei",605182,home_run,R,4-Seam Fastball,94.1,443,110.7,29,2,3,2
+"Ohtani, Shohei",605182,home_run,R,4-Seam Fastball,96.1,374,102.6,36,0,2,2
+"Ohtani, Shohei",519096,single,R,Changeup,83.7,191,86.2,9,7,7,0.9
+"Ohtani, Shohei",424144,single,L,Sinker,90.4,264,84.3,23,3,3,0.9
+"Ohtani, Shohei",621237,single,L,Sinker,96.6,157,101.5,9,6,6,0.9
+"Ohtani, Shohei",606273,double,L,Sinker,96,371,113.2,19,11,11,1.25
+"Ohtani, Shohei",448306,home_run,R,Cutter,88.2,446,110.4,33,3,5,2
+"Ohtani, Shohei",608337,home_run,R,Sinker,93.5,435,107.7,30,2,3,2
+"Ohtani, Shohei",501789,single,R,Cutter,91.2,91,39.9,33,6,6,0.9
+"Ohtani, Shohei",434378,double,R,4-Seam Fastball,95.7,331,106.5,21,0,0,1.25
+"Ohtani, Shohei",448609,double,L,4-Seam Fastball,93.1,230,106.9,15,0,0,1.25
+"Ohtani, Shohei",518397,double,L,Sinker,93.8,355,103.4,19,2,2,1.25
+"Ohtani, Shohei",502190,single,R,Changeup,84.3,6,88.1,-17,6,6,0.9
+"Ohtani, Shohei",606273,single,L,4-Seam Fastball,94.4,220,104.5,10,8,9,0.9
+"Ohtani, Shohei",608638,home_run,R,Sinker,95.8,443,108.8,24,3,4,2
+"Ohtani, Shohei",502190,single,R,Sinker,86.5,115,103.1,6,1,1,0.9
+"Ohtani, Shohei",607473,double,R,4-Seam Fastball,92.5,102,101.5,5,6,6,1.25
+"Ohtani, Shohei",641838,single,R,Sinker,92.7,9,81,-7,4,4,0.9
+"Ohtani, Shohei",450729,single,R,Cutter,86,15,101.1,-8,0,0,0.9
+"Ohtani, Shohei",112526,double,R,Sinker,86,357,101.7,19,2,2,1.25
+"Ohtani, Shohei",462136,double,R,4-Seam Fastball,88.9,360,110.4,16,3,3,1.25
+"Ohtani, Shohei",592547,double,R,4-Seam Fastball,93.6,8,103.4,-15,7,7,1.25
+"Ohtani, Shohei",461325,single,R,Changeup,79.4,190,71.1,16,1,3,0.9
+"Ohtani, Shohei",605483,double,L,4-Seam Fastball,97.2,380,110.2,18,0,0,1.25
+"Ohtani, Shohei",643493,home_run,R,4-Seam Fastball,91.2,411,102.8,28,0,1,2
+"Ohtani, Shohei",543037,single,R,Knuckle Curve,82.7,165,95.1,11,3,3,0.9
+"Ohtani, Shohei",458681,single,R,Sinker,91,170,91.5,9,3,3,0.9
+"Ohtani, Shohei",621244,double,R,Changeup,84.8,274,111.4,11,3,4,1.25
+"Ohtani, Shohei",657610,home_run,R,Sinker,90.8,414,108.7,32,6,7,2
+"Ohtani, Shohei",572044,single,R,Slider,84.7,194,106.6,8,7,7,0.9
+"Ohtani, Shohei",502190,double,R,Changeup,82.1,319,95.3,23,2,3,1.25
+"Ohtani, Shohei",502190,single,R,Cutter,88.9,285,104.2,12,0,0,0.9
+"Ohtani, Shohei",501957,single,R,Changeup,83.9,291,109.1,16,2,3,0.9
+"Ohtani, Shohei",542947,single,L,Sinker,85.4,12,106.9,-9,12,12,0.9
+"Ohtani, Shohei",502171,double,R,Knuckle Curve,80,81,103.8,2,0,0,1.25
+"Ohtani, Shohei",622663,home_run,R,4-Seam Fastball,97.2,410,112,23,0,1,2
+"Ohtani, Shohei",456501,single,R,Changeup,83.9,253,94.8,15,0,0,0.9
+"Ohtani, Shohei",502188,single,R,Knuckle Curve,78.8,196,86.9,13,0,0,0.9
+"Ohtani, Shohei",592612,single,L,4-Seam Fastball,94.2,7,91.6,-27,1,1,0.9
+"Ohtani, Shohei",434628,double,R,4-Seam Fastball,92.2,275,83,27,0,0,1.25
+"Ohtani, Shohei",518748,single,R,Curveball,83,266,101.9,11,3,3,0.9
+"Ohtani, Shohei",543506,triple,R,4-Seam Fastball,96.7,335,106,16,3,6,1.6
+"Ohtani, Shohei",519043,single,L,4-Seam Fastball,91.5,136,78.4,11,0,1,0.9
+"Ohtani, Shohei",605254,home_run,R,Sinker,93.8,449,112.4,26,0,1,2
+"Ohtani, Shohei",446372,home_run,R,4-Seam Fastball,91.6,400,100,26,0,2,2
+"Ohtani, Shohei",592102,single,R,4-Seam Fastball,93.6,8,104,-17,2,2,0.9
+"Ohtani, Shohei",458708,single,R,Cutter,84.1,178,100.6,12,8,8,0.9
+"Ohtani, Shohei",458708,home_run,R,Curveball,73.6,397,104.5,35,3,6,2
+"Ohtani, Shohei",502083,single,R,4-Seam Fastball,94.7,271,112.8,9,11,11,0.9
+"Ohtani, Shohei",608665,single,R,Cutter,91.5,8,102.1,-13,1,1,0.9
+"Ohtani, Shohei",448179,single,L,4-Seam Fastball,87.8,284,104.7,12,4,4,0.9

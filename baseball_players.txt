@@ -1,0 +1,8 @@
+1 Pitcher
+2 Catcher
+3 First
+4 Second
+5 ShortStop
+6 Third
+7 Outfielder
+8 DesHit
